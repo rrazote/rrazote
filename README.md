@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rrazote
-- 👀 I’m interested in java, javascript and sql
+- 👀 I’m interested in nodejs, reactjs, mongodb, java, php and sql
 - 🌱 I’m currently improving my java, javascript and sql
 - 📫 reach me rrazote@yahoo.com
 
